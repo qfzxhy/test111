@@ -1,3 +1,4 @@
-Class c
+Class Helloworld
 {
 }
+Syso("hello world")
